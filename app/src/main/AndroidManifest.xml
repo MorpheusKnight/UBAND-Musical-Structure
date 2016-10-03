@@ -23,7 +23,7 @@
             android:label="@string/songlist" />
         <activity
             android:name=".SongPlayerActivity"
-            android:label="@string/songdetail" />
+            android:label="@string/songdetail_text" />
     </application>
 
 </manifest>

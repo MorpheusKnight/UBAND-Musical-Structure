@@ -11,6 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.nkp.musicalstructure.MainActivity"
+    android:orientation="vertical"
     tools:showIn="@layout/activity_main">
     <TextView
         android:layout_width="wrap_content"
@@ -29,6 +30,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/activity_horizontal_margin"
-        android:text="@string/songdetail" />
+        android:text="@string/songdetail_text" />
 
 </LinearLayout>

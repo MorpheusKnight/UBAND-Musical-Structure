@@ -28,12 +28,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/activity_horizontal_margin"
-        android:text="@string/recent" />
+        android:text="@string/recent_text" />
 
     <Button
         android:id="@+id/btn_song_list"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/activity_horizontal_margin"
-        android:text="@string/songlist" />
+        android:text="@string/songlist_text" />
 </LinearLayout>
