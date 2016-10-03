@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="action_settings">Settings</string>
+    <string name="songlist">Song List</string>
+    <string name="songname">Song Name</string>
+
+    <string name="songdetail">Song Player</string>
+    <string name="play">Play/Pause</string>
+
+    <string name="recent">Recent/Album</string>
+
+    <string name="getlist">More Info</string>
+</resources>
